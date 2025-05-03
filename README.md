@@ -37,9 +37,6 @@ competitive, de obicei multiplayer impreuna cu prietenii.
     * Mai multe biblioteci Java
 
 ### Cum să vă contactați
-
-* email: [niculupu70](https://niculupu70@gmail.com)
-* nr de telefon: *068249****
 * GitHub: [LupuNicu](https://github.com/LupuNicu)
 
     
